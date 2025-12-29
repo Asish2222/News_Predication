@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset & training artifacts
+news_dataset.csv
+confusion_matrix_pytorch.png
+training_history_pytorch.png
+
+# OS / editor
+.DS_Store
